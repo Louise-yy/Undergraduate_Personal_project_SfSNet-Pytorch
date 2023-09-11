@@ -1,0 +1,8 @@
+h5py==2.9.0
+numpy==1.15.4
+matplotlib==2.2.3
+opencv-python==3.4.5.20
+dlib==19.16.0
+torchvision==0.2.0
+
+pyqt5~=5.15.4
